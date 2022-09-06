@@ -8,10 +8,21 @@
     "time":"10:00 - 11:00 AM\n",
     "location":"Cielo Cafe",
     "location_url":"",
-    "desc":"Details coming ASAP",
-    "rsvp":"",
+    "desc": "Capital One is excited to connect with students looking for a role where they can develop innovative solutions to meet customers' needs and positively impact their lives. We invite you to register for a special coffee chat for ACM-W and SWE members on September 21 as there will be a few Capital One associates, several of whom are OSU alumni, available to speak with you one on one between 10 and 11 AM. This small group chat is a great opportunity to ask questions about our intern and rotation programs with a current (or recent grad) of the Technology Development Program. You can also learn more about #LifeatCapitalOne, our culture, project areas, and more! To view a list of other upcoming events, check out our landing page. If you'd like to learn more about us, feel free to browse our blog homepage. Register Here: https://capitalone.eightfold.ai/events/candidate?plannedEventId=bPagE8Z7",
     "rsvp_link":""
-  }, 
+  },
+  {
+    "name":"ECS Career Fair Event",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"September 13th",
+    "date":"September 13 2022",
+    "time":"6:30 - 7:30 PM\n",
+    "location":"Dreese 264",
+    "location_url":"",
+    "desc": "Join us for an interactive workshop and presentation presented by Engineering Career Services to prepare you for the Engineering Expo. Grow your skills to successfully tackle Career Fairs.",
+    "rsvp_link":""
+  },  
   {
     "name":"Mental Health in the Workplace with CapTech",
     "title_url":"",
