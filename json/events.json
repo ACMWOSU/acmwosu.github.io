@@ -1,5 +1,31 @@
 [
   {
+    "name":"ACM-W/4-H Fall Coding Workshop",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"October 26th",
+    "date":"October 26 2022",
+    "time":"7:00 - 8:30 PM\n",
+    "location":"4H center (West Campus)",
+    "location_url":"",
+    "desc": "ACM-W volunteers will help K-12 students create a Halloween themed Scratch or HTML/CSS project. Get some volunteer hours in!",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"Resume Review with Accenture",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"September 28th",
+    "date":"September 28 2022",
+    "time":"7:30 - 8:30 PM\n",
+    "location":"Dreese 264",
+    "location_url":"",
+    "desc": "Join representatives from Accenture to learn about tips to improve your resume and a live review session of ACM-W members' resumes with Bubble Tea! RSVP today and the first 40 people will get a free bubble tea.",
+    "rsvp":"Click here to RSVP!",
+    "rsvp_link":"https://forms.gle/3MS8GgAcoyeXVNd2A"
+  },
+  {
     "name":"Coffee with Capital One",
     "title_url":"",
     "link_type": 0,
@@ -8,8 +34,9 @@
     "time":"10:00 - 11:00 AM\n",
     "location":"Cielo Cafe",
     "location_url":"",
-    "desc": "Capital One is excited to connect with students looking for a role where they can develop innovative solutions to meet customers' needs and positively impact their lives. We invite you to register for a special coffee chat for ACM-W and SWE members on September 21 as there will be a few Capital One associates, several of whom are OSU alumni, available to speak with you one on one between 10 and 11 AM. This small group chat is a great opportunity to ask questions about our intern and rotation programs with a current (or recent grad) of the Technology Development Program. You can also learn more about #LifeatCapitalOne, our culture, project areas, and more! To view a list of other upcoming events, check out our landing page. If you'd like to learn more about us, feel free to browse our blog homepage. Register Here: https://capitalone.eightfold.ai/events/candidate?plannedEventId=bPagE8Z7",
-    "rsvp_link":""
+    "desc": "Capital One is excited to connect with students looking for a role where they can develop innovative solutions to meet customers' needs and positively impact their lives. We invite you to register for a special coffee chat for ACM-W and SWE members on September 21 as there will be a few Capital One associates, several of whom are OSU alumni, available to speak with you one on one between 10 and 11 AM. This small group chat is a great opportunity to ask questions about our intern and rotation programs with a current (or recent grad) of the Technology Development Program. You can also learn more about #LifeatCapitalOne, our culture, project areas, and more! To view a list of other upcoming events, check out our landing page. If you'd like to learn more about us, feel free to browse our blog homepage.",
+    "rsvp":"Click here to register!",
+    "rsvp_link":"https://capitalone.eightfold.ai/events/candidate?plannedEventId=bPagE8Z7"
   },
   {
     "name":"ECS Career Fair Event",
@@ -21,6 +48,7 @@
     "location":"Paige Hall 010",
     "location_url":"",
     "desc": "Join us for an interactive workshop and presentation presented by Engineering Career Services to prepare you for the Engineering Expo. Grow your skills to successfully tackle Career Fairs.",
+    "rsvp":"",
     "rsvp_link":""
   },  
   {
