@@ -13,26 +13,13 @@
     "rsvp_link":""
   },
   {
-    "name":"Eating with Industry",
-    "title_url":"",
-    "link_type": 0,
-    "date_string":"October 10th",
-    "date":"October 10 2022",
-    "time":"6:30 - 8:00 PM\n",
-    "location":"Curl Viewpoint",
-    "location_url":"",
-    "desc": "ACM-W and OHI/O are collaborating to bring you Eating with Industry! Join us for an amazing night of networking with representatives from [list of companies]. Dinner will be provided and will include charcuterie, hors d'oeuvres, refreshments, etc. Dress your best in business casual and come with your resumes ready!",
-    "rsvp":"RSVP Here:",
-    "rsvp_link":"https://forms.gle/kFvDzsLmdCipuiuw7"
-  },
-  {
     "name":"Resume Review with Accenture",
     "title_url":"",
     "link_type": 0,
     "date_string":"September 28th",
     "date":"September 28 2022",
-    "time":"~7:30 - 8:30 PM\n",
-    "location":"TBD",
+    "time":"7:30 - 8:30 PM\n",
+    "location":"Dreese 264",
     "location_url":"",
     "desc": "Join representatives from Accenture to learn about tips to improve your resume and a live review session of ACM-W members' resumes with Bubble Tea! RSVP today and the first 40 people will get a free bubble tea.",
     "rsvp":"Click here to RSVP!",
