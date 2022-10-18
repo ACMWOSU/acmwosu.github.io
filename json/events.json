@@ -1,5 +1,18 @@
 [
   {
+    "name":"CSE Halloween Social",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"October 31st",
+    "date":"October 31 2022",
+    "time":"7:30 - 8:30 PM\n",
+    "location":"Curl Viewpoint",
+    "location_url":"",
+    "desc": "ACM-W volunteers will help K-12 students create a Halloween themed Scratch or HTML/CSS project. Get some volunteer hours in!",
+    "rsvp":"RSVP Here:",
+    "rsvp_link":"https://docs.google.com/forms/d/e/1FAIpQLScQyzKIJnrTvS_WasjQR5lNmbPdiGtcMNYdj0T3GaC5dLdmiA/viewform"
+  },
+  {
     "name":"ACM-W/4-H Fall Coding Workshop",
     "title_url":"",
     "link_type": 0,
@@ -9,6 +22,45 @@
     "location":"4H center (West Campus)",
     "location_url":"",
     "desc": "ACM-W volunteers will help K-12 students create a Halloween themed Scratch or HTML/CSS project. Get some volunteer hours in!",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"How to Market Yourself + LinkedIn tutorial with Caterpillar",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"October 25th",
+    "date":"October 25 2022",
+    "time":"7:00 - 8:30 PM\n",
+    "location":"Dreese 317",
+    "location_url":"",
+    "desc": "Struggling to stand out during career fairs or just want advice on how to advertise yourself? Join representatives from Caterpillar to learn how to market yourself in-person and online. Gain confidence in your elevator pitches and polish up your linkedin account to stand out to recruiters!",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"ACM-W x SHPE Apple Picking",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"October 23rd",
+    "date":"October 23 2022",
+    "time":"11:00 AM\n",
+    "location":"Pickup at Union",
+    "location_url":"",
+    "desc": "Take some time out of your fall Sunday to go apple picking with ACM-W and SHPE at Lynn's Fruit Farm! Enjoy some fall-tastic weather and fresh fruit, all the while meeting fellow engineers and women in tech! If you are interested in carpooling, please fill out this interest form by Friday, 10/21.",
+    "rsvp":"Click here to register!",
+    "rsvp_link":"https://docs.google.com/forms/d/e/1FAIpQLSdXSHwwe_qaWIJ4vPMpInyGSB9BA4JBDFN1ULpWwRb9Lj5Ttw/viewform"
+  },
+  {
+    "name":"Study Tables with ACM-W!",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"October 19th",
+    "date":"October 19 2022",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Dreese 264",
+    "location_url":"",
+    "desc": "Are you stressed out and busy with work? Come join ACM-W for a casual study tables where you can get work done and destress with snacks & crafts! Feel free to bring your friends.",
     "rsvp":"",
     "rsvp_link":""
   },
