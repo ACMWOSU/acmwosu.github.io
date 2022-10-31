@@ -1,5 +1,18 @@
 [
   {
+    "name":"Happy Hour w/ SWE, SASE, and SHPE",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"November 11th",
+    "date":"November 11 2022",
+    "time":"6:00 - 8:00 PM\n",
+    "location":"Fives on High",
+    "location_url":"",
+    "desc": "Join ACM-W, SWE, SASE, and SHPE for a happy hour on the town at Fives on High! Mingle with fellow engineers and tech enthusiats, as well as enjoying games and refreshing drinks! Event will be 18+ to enter, but attendees must be 21+ to consume alcohol",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"Privacy and Civil Liberties workshop with Palantir",
     "title_url":"",
     "link_type": 0,
@@ -8,7 +21,7 @@
     "time":"7:30 - 8:30 PM\n",
     "location":"Dreese 264",
     "location_url":"",
-    "desc": "Join representatives from Palantir to worth through a complicated ethical scenario similar to what Palantir employees do frequently. Get insight into an overlooked scenario that you could find yourself in in the industry!",
+    "desc": "Free Chipotle! Join representatives from Palantir to work through a complicated ethical scenario similar to what Palantir employees do frequently. Get insight into an overlooked scenario that you could find yourself in in the industry!",
     "rsvp":"Click here to RSVP!",
     "rsvp_link":"https://palantir.events/palantirxohiostateuniversity"
   },
@@ -21,7 +34,7 @@
     "time":"7:30 - 8:30 PM\n",
     "location":"Curl Viewpoint",
     "location_url":"",
-    "desc": "ACM-W volunteers will help K-12 students create a Halloween themed Scratch or HTML/CSS project. Get some volunteer hours in!",
+    "desc": "Celebrate Halloween with ACM-W and other CSE orgs for some fun spooky activities, a costume contest, and more! Anyone who dresses in costume has the opportunity to win a $50 Amazon gift card, as well as a surprise contest that will be announced at the social!",
     "rsvp":"RSVP By Clicking Here!",
     "rsvp_link":"https://docs.google.com/forms/d/e/1FAIpQLScQyzKIJnrTvS_WasjQR5lNmbPdiGtcMNYdj0T3GaC5dLdmiA/viewform"
   },
