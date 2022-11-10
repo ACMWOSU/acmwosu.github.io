@@ -1,5 +1,18 @@
 [
   {
+    "name":"ACM-W Mentorship Office Hours",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"November 14th",
+    "date":"November 14 2022",
+    "time":"3:00 - 6:00 PM\n",
+    "location":"ACM-W Office - Dreese 159",
+    "location_url":"",
+    "desc": "Stop by our office to chat with ACM-W upperclassmen about academics, professional development, or our experience in CS at OSU! We can offer resume reviews, help with application to major, advice on what classes to take, etc. Buckeye Donuts will be provided - feel free to drop in any time from 3-6 PM to grab a snack and ask any and all questions!",
+    "rsvp":"Our office, DL159, might be a little hard to find - this picture may help!",
+    "rsvp_link":"https://drive.google.com/file/d/0B2AszPCRAyCGamNxQmtkMlQ2eFE/view?usp=sharing&resourcekey=0-S3oTCsa0JCUVyINfVBiXxg"
+  },
+  {
     "name":"Happy Hour w/ SWE, SASE, and SHPE",
     "title_url":"",
     "link_type": 0,
