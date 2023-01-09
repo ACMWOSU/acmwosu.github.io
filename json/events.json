@@ -1,5 +1,44 @@
 [
   {
+    "name":"OSU Stem Day",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"January 21st",
+    "date":"January 21 2023",
+    "time":"11:00 AM - 2:00 PM\n",
+    "location":"Fontana Labs",
+    "location_url":"",
+    "desc": "Volunteers are needed to help with a coding activity during OSU's STEM Day outreach event! Please sign up even if you cannot make the whole event - there are multiple time slots.",
+    "rsvp":"Click Here to Register!",
+    "rsvp_link":"https://forms.gle/GKtX6f7vqMZZoNod9"
+  },
+  {
+    "name":"Tote Bag Painting Social",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"January 18th",
+    "date":"January 18 2023",
+    "time":"7:30 - 8:30 PM\n",
+    "location":"Houston Grove Room",
+    "location_url":"",
+    "desc": "Join us to paint some tote bags and connect with other women in computing! All majors and genders are welcome, and supplies will be provided.",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"Spring Kickoff",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"January 11th",
+    "date":"January 11 2023",
+    "time":"7:30 - 8:30 PM\n",
+    "location":"Bowen House - Ohio Room",
+    "location_url":"",
+    "desc": "Join us for our first event of the spring, as we talk about some upcoming events to look forward to this semester with some fresh pizza from Adriatico's. Afterwards, we will be playing some fun games to bond with everyone in the organization better, so we hope to see you all there!",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"ACM-W Mentorship Office Hours",
     "title_url":"",
     "link_type": 0,
