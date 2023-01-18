@@ -1,5 +1,31 @@
 [
   {
+    "name":"Eating With Industry",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"February 1st",
+    "date":"February 1 2023",
+    "time":"6:00 PM - 8:00 PM\n",
+    "location":"Raney Bolder Room",
+    "location_url":"",
+    "desc": "Join ACM-W for an exclusive event to network with industry partners such as JPMORGAN CHASE & CO, ACCENTURE, CATERPILLAR and more over dinner! RSVP with the link to reserve your spot. Dress code is Business Casual and feel free to bring your resume!",
+    "rsvp":"Click here to register for the event!",
+    "rsvp_link":"http://go.osu.edu/acmwEWIRSVP"
+  },
+  {
+    "name":"Recruiting Workshop",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"January 25th",
+    "date":"January 25 2023",
+    "time":"7:00 PM - 8:00 PM\n",
+    "location":"Dreese 264",
+    "location_url":"",
+    "desc": "Learn how to recruit for tech internships and jobs at this informational workshop! We will be discussing resumes, career fairs, and various resources to help you navigate breaking into tech. The workshop will be led by ACM-W’s student advisor, Neha Gupta, who has interned at Microsoft and Meta, in addition to recruiting with other top tech companies.",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"OSU Stem Day",
     "title_url":"",
     "link_type": 0,
