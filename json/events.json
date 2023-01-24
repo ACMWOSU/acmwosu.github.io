@@ -1,5 +1,31 @@
 [
   {
+    "name":"Palentine's Day Social",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"February 15th",
+    "date":"February 15 2023",
+    "time":"7:30 PM - 8:30 PM\n",
+    "location":"Bowen Base Camp",
+    "location_url":"",
+    "desc": "All majors and genders welcome to our celebration of Valentine's Day! Join us to make cards, feast on some sweets, and appreciate those we love/care about on this holiday!",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"Interviewing Workshop",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"February 8th",
+    "date":"February 8 2023",
+    "time":"7:30 PM - 8:30 PM\n",
+    "location":"Location to be determined",
+    "location_url":"",
+    "desc": "Description to be determined",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"Eating With Industry",
     "title_url":"",
     "link_type": 0,
