@@ -1,5 +1,31 @@
 [
   {
+    "name":"OCWIC Social",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"February 22nd",
+    "date":"February 22 2023",
+    "time":"7:30 - 8:30 PM\n",
+    "location":"Dreese 264",
+    "location_url":"",
+    "desc": "If you are attending OCWiC 2023 with ACM-W, join us for our OCWiC social, where we will be making friendship bracelets, while getting to know one another! We will also be sharing relevant housekeeping information about this trip, and you will be meeting your roommate if you did not opt for a single. Hope to see you all there!",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"Application to Major Mentorship Office Hours",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"February 20th",
+    "date":"February 20 2023",
+    "time":"3:00 - 6:00 PM\n",
+    "location":"Torres Think Tank",
+    "location_url":"",
+    "desc": "Stop by to chat with ACM-W exec board members about your application to major! While we cannot guarantee we know exactly how to get admitted, we're available to help brainstorm and proofread essays. If you're not applying, feel free to ask about academics, professional development, and our experience in CS at OSU - or just hang out with us. Bubble tea from Kung Fu Tea will be provided - feel free to drop in any time from 3-6 PM to grab a drink and ask any and all questions!",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"Palentine's Day Social",
     "title_url":"",
     "link_type": 0,
@@ -13,15 +39,15 @@
     "rsvp_link":""
   },
   {
-    "name":"Interviewing Workshop",
+    "name":"Study Tables",
     "title_url":"",
     "link_type": 0,
     "date_string":"February 8th",
     "date":"February 8 2023",
     "time":"7:30 PM - 8:30 PM\n",
-    "location":"Location to be determined",
+    "location":"Dreese 264",
     "location_url":"",
-    "desc": "Description to be determined",
+    "desc": "Are you stressed out and busy with work? Come join ACM-W for a casual study tables where you can get work done and destress with snacks & crafts! All majors and genders welcome",
     "rsvp":"",
     "rsvp_link":""
   },
