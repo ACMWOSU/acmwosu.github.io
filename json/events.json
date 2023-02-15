@@ -1,5 +1,18 @@
 [
   {
+    "name":"Interviewing Workshop",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"March 1st",
+    "date":"March 1 2023",
+    "time":"7:30 - 8:30 PM\n",
+    "location":"Dreese 264",
+    "location_url":"",
+    "desc": "Join us to learn more about the software engineering interviewing process and practice technical questions. All genders and majors of all experience levels are welcome!",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"OCWIC Social",
     "title_url":"",
     "link_type": 0,
