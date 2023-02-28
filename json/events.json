@@ -1,5 +1,18 @@
 [
   {
+    "name":"Grace Hopper Celebration & ACM-W Exec Board Info Session",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"March 8th",
+    "date":"March 8 2023",
+    "time":"7:30 - 8:30 PM\n",
+    "location":"Dreese 264",
+    "location_url":"",
+    "desc": "Come join us for an overview of the Grace Hopper Celebration and how to qualify for an ACM-W scholarship. We will also be going over ACM-W executive board positions and how to apply for available positions. If you are not able to attend and are interested, please keep an eye out on our slack for more information.",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"Interviewing Workshop",
     "title_url":"",
     "link_type": 0,
