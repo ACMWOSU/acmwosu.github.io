@@ -1,5 +1,44 @@
 [
   {
+    "name":"Succulent Decorating Social",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"March 29th",
+    "date":"March 29 2023",
+    "time":"7:30 - 8:30 PM\n",
+    "location":"Dreese 264",
+    "location_url":"",
+    "desc": "Join us for a night of decorating! We will be providing succulents for each attendee, as well as craft supplies for decorating your starter pot! If you are interested in attending, please fill out this form so that each attendee can get a succulent.",
+    "rsvp":"Click here to RSVP for the event!",
+    "rsvp_link":"https://go.osu.edu/acmw-succulent"
+  },
+  {
+    "name":"ACM-W x CSC Personal Security Workshop",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"March 21st",
+    "date":"March 21 2023",
+    "time":"7:30 - 8:30 PM\n",
+    "location":"Enarson 209",
+    "location_url":"",
+    "desc": "Interested in cybersecurity and how it affects our tech? If yes, then join ACM-W, in collaboration with OSU's Cyber Security Club! This workshop is intended to learn about the personal implications of cybersecurity in our daily lives, as well as the science behind different security measures we often take for granted! All majors and genders are welcome.",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"2023-2024 Executive Board Application",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"March 20th",
+    "date":"March 20 2023",
+    "time":"11:59 PM\n",
+    "location":"",
+    "location_url":"",
+    "desc": "Do you enjoy being part of ACM-W? Have ideas for how to make our club better? We encourage you to apply to be on ACM-W's Executive Board! We are looking for people interested in fulfilling the role of Treasurer, Secretary, Socials and Workshop Coordinator, Co-Company Relations Coordinator, Recruitment and Development Coordinator, and Mentorship Coordinator. For more information on these roles and responsibilities, please look <a href='https://docs.google.com/document/d/12BlX8tAlvR5bKXOrto1FnAsyh16V4HCZ2I5DRGmdoqE/edit?usp=sharing'>here</a>, or reach out to a current Executive Board member for a coffee chat! To apply, fill out the application. Applications are due Monday, March 20th at 11:59pm.",
+    "rsvp":"Click here for the application!",
+    "rsvp_link":"https://forms.gle/Er57359sp7AUjJAGA"
+  },
+  {
     "name":"Grace Hopper Celebration & ACM-W Exec Board Info Session",
     "title_url":"",
     "link_type": 0,
