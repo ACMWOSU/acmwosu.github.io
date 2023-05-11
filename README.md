@@ -3,6 +3,7 @@ ACM-W at OSU page.
 [Click to Enter ACMW's Website](https://acmwosu.github.io/)
 
 ### Contributors:
+- **2023:** Amanda Futterman
 - **2022:** Cathyna Tong
 - **2021:** Morgan Zahner
 - **2020:** Sara Miskus
