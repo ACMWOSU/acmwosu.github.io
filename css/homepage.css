@@ -136,6 +136,13 @@ section.data h2 {
   line-height: 3.1rem;
 }
 
+.row.justify-content-between > .col-xl-4,
+.row.justify-content-between > .col-md-6 {
+  flex-basis: calc(33.33% - 1rem);
+  margin-right: 0.5rem;
+  margin-left: 0.5rem;
+}
+
 .how-to-join-text {
   font-size: 1.5rem;
 }
@@ -409,6 +416,8 @@ form .row:first-child .floating-label-form-group {
 }
 
 .footer {
+  display: flex;
+  align-items: center;
   padding-top: 5rem;
   padding-bottom: 5rem;
   background-color: #373738;
