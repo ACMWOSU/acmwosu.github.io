@@ -12,6 +12,15 @@ h6 {
   font-family: 'Montserrat';
 }
 
+.awards-title{
+  font-weight: 1000;
+  font-size: larger;
+  font-style: bold;
+  font-family: 'Montserrat';
+  text-align: center;
+  color: #ba9ae0;
+}
+
 .calendar{
   padding-top: 110px;
   margin-left: 130px;
