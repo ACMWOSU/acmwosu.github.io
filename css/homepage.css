@@ -83,6 +83,16 @@ section {
   padding: 3rem;
 }
 
+.image-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* Adjust the number of columns as per your requirement */
+  gap: 10px; /* Adjust the gap between images as per your requirement */
+}
+
+.image-container img {
+  width: 100%; /* Adjust the width as per your requirement */
+}
+
 .how-to-join-section img {
   padding-right: 40px;
 }
