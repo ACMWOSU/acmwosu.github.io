@@ -56,10 +56,24 @@
     "time":"7:00 - 8:00 PM\n",
     "location":"tbd",
     "location_url":"",
-    "desc": "Come learn about Daugherty Business Solutions and modern day technology advancements!",
+    "desc": "Join consultants from Daugherty Business Solutions to learn about what it’s like to be a part of an IT Consulting Firm, and to hear more about our Daugherty University program for recent graduates entering the workforce",
     "rsvp":"",
     "rsvp_link":""
-  }, {
+  }, 
+  {
+    "name":"CSE Halloween Social",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"October 26th",
+    "date":"October 26 2023",
+    "time":"8:00 - 9:00 PM\n",
+    "location":"Dreese 264",
+    "location_url":"",
+    "desc": "Join the CSE Organizations for a spooky halloween celebration, there will be snacks games and a costume contest! This social is an awesome opportunity to network with peers in your classes that are involved in similar organizations on campus :)",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"Southwest Research Robotics and Software Engineering Presentation w/ GradSWE",
     "title_url":"",
     "link_type": 0,
