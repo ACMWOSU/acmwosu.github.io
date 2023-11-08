@@ -11,7 +11,20 @@
     "desc": "Work with local Girl Scouts to do a safe cracking ECE exercise",
     "rsvp":"",
     "rsvp_link":""
-  },{
+  },
+  {
+    "name":"Holiday Party",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"November 29th",
+    "date":"November 29 2023",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Dreese 264",
+    "location_url":"",
+    "desc": "Join us for an awesome Holiday party!",
+    "rsvp":"",
+    "rsvp_link":""
+  }, {
     "name":"Outreach @ Barnett Branch of Columbus Metro Library",
     "title_url":"",
     "link_type": 0,
@@ -30,7 +43,7 @@
     "date_string":"November 15th",
     "date":"November 15 2023",
     "time":"7:00 - 8:00 PM\n",
-    "location":"tbd",
+    "location":"Dreese 264",
     "location_url":"",
     "desc": "A panel that explores the career paths and prior experiences of current Google employees with an open panel discussion format",
     "rsvp":"",
@@ -42,7 +55,7 @@
     "date_string":"November 8th",
     "date":"November 8 2023",
     "time":"7:00 - 8:00 PM\n",
-    "location":"tbd",
+    "location":"Dreese 264",
     "location_url":"",
     "desc": "Join us for our combined event w/ Rewrite the Code & Women in Cybersecurity as we decorate cookies and make memories!!",
     "rsvp":"",
@@ -54,7 +67,7 @@
     "date_string":"November 1th",
     "date":"November 1 2023",
     "time":"7:00 - 8:00 PM\n",
-    "location":"tbd",
+    "location":"Dreese 264",
     "location_url":"",
     "desc": "Join consultants from Daugherty Business Solutions to learn about what it’s like to be a part of an IT Consulting Firm, and to hear more about our Daugherty University program for recent graduates entering the workforce",
     "rsvp":"",
