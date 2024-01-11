@@ -1,14 +1,118 @@
 [
   {
-    "name":"Safe Cracking Outreach",
+    "name":"End of Year Celebration",
     "title_url":"",
     "link_type": 0,
-    "date_string":"December 7th",
-    "date":"December 7 2023",
-    "time":"6:30 - 8:00 PM\n",
+    "date_string":"April 17th",
+    "date":"April 17 2024",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Dreese 264",
+    "location_url":"",
+    "desc": "As the spring semester comes to a close we would like to invite you all to join us to celebrate all of our academic successes this semester with a fun celebration. There will be refreshments, snacks and games! Join us for our last event of Spring 2024!",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"Application to Major Office Hours",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"February 19th",
+    "date":"February 19 2024",
+    "time":"4:15 - 7:15 PM\n",
     "location":"tbd",
     "location_url":"",
-    "desc": "Work with local Girl Scouts to do a safe cracking ECE exercise",
+    "desc": "Stop by to chat with ACM-W exec board members about your application to major! While we cannot guarantee we know exactly how to get admitted, we're available to help brainstorm and proofread essays. If you're not applying, feel free to ask about academics, professional development, and our experience in CS at OSU - or just hang out with us.",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"Palentines Day Social",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"February 14th",
+    "date":"February 14 2024",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Dreese 264",
+    "location_url":"",
+    "desc": "Join us for an awesome Valentine celebration with fun snacks, activities, games and friends <3",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"Eating with Industry",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"February 8th",
+    "date":"February 8 2024",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Raney Boulder Room",
+    "location_url":"",
+    "desc": "Join ACM-W for an exclusive event to network with industry partners such as JPMORGAN CHASE & CO, ACCENTURE, CATERPILLAR and more over dinner! RSVP with the link to reserve your spot. Dress code is Business Casual and feel free to bring your resume!",
+    "rsvp":"RSVP to this super popular event",
+    "rsvp_link":"http://go.osu.edu/eatwithindustry"
+  },
+  {
+    "name":"Vision Board Making",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"January 31st",
+    "date":"January 31 2024",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Dreese 264",
+    "location_url":"",
+    "desc": "Start off the new year with ACMW at our Vision Board Making Event! Bring your aspirations to life by crafting a personalized vision board filled with images and words that reflect your ambitions for 2024. ",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"Accenture Case Study Competition",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"January 24th",
+    "date":"January 24 2024",
+    "time":"7:30 - 8:30 PM\n",
+    "location":"Dreese 264",
+    "location_url":"",
+    "desc": "Learn skills in performing case studies given various technology based prompts. Useful skills for consulting interviews, network with Accenture professionals and more!",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"Bracelet Making Social",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"January 22nd",
+    "date":"January 22 2024",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Dreese 264",
+    "location_url":"",
+    "desc": "Join our Bracelet Making Social where you can unwind, get creative, and connect with your mentorship group. All materials provided, and refreshments are on us! See you there!",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"Recruiting and Career Fair Prep Workshop",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"January 17th",
+    "date":"January 17 2024",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Dreese 264",
+    "location_url":"",
+    "desc": "Learn how to recruit for tech internships and jobs at this informational workshop! We will be discussing resumes, interviews, and various resources to help you navigate breaking into tech. Additionally, we will be going over some tips and tricks to help prepare for the upcoming career fairs! ",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"Spring Kickoff",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"January 10th",
+    "date":"January 10 2024",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Pomerene 150",
+    "location_url":"",
+    "desc": "Are you looking for a community of women and nonbinary people in technology? Or opportunities for professional development? (last two sentences can be changed lol) Join ACM-W for our first Spring event, as we talk about some upcoming events to look forward to this semester with some fresh pizza from Adriatico's. Afterwards, we will be playing some fun games to bond with everyone in the organization better, so we hope to see you all there!",
     "rsvp":"",
     "rsvp_link":""
   },
@@ -24,7 +128,8 @@
     "desc": "Join us for an awesome Holiday party!",
     "rsvp":"",
     "rsvp_link":""
-  }, {
+  }, 
+  {
     "name":"Outreach @ Barnett Branch of Columbus Metro Library",
     "title_url":"",
     "link_type": 0,
@@ -36,7 +141,8 @@
     "desc": "Want to help inspire young students? Then come help with teaching Scratch and Coding to the youth at Columbus Metro Library",
     "rsvp":"",
     "rsvp_link":""
-  },{
+  },
+  {
     "name":"Google Speaker Panel",
     "title_url":"",
     "link_type": 0,
@@ -48,7 +154,8 @@
     "desc": "A panel that explores the career paths and prior experiences of current Google employees with an open panel discussion format",
     "rsvp":"",
     "rsvp_link":""
-  }, {
+  }, 
+  {
     "name":"Cookie Decorating with Rewrite the Code and Women in Cybersecurity",
     "title_url":"",
     "link_type": 0,
@@ -60,7 +167,8 @@
     "desc": "Join us for our combined event w/ Rewrite the Code & Women in Cybersecurity as we decorate cookies and make memories!!",
     "rsvp":"",
     "rsvp_link":""
-  }, {
+  },
+  {
     "name":"Daugherty Business Solutions Tech Talk",
     "title_url":"",
     "link_type": 0,
@@ -98,7 +206,8 @@
     "desc": "Dr. Douglas Brooks will be exploring Southwest's Intelligent Systems Division in collaboration with GradSWE. Pizza will be provided!",
     "rsvp":"",
     "rsvp_link":""
-  }, {
+  }, 
+  {
     "name":"OSU STEM Day",
     "title_url":"",
     "link_type": 0,
@@ -110,7 +219,8 @@
     "desc": "Want to help inspire young students? Then come help with teaching Scratch and Coding to the youth at Fontana Labs",
     "rsvp":"",
     "rsvp_link":""
-  }, {
+  }, 
+  {
     "name":"Mentorship Rubber Duck Social",
     "title_url":"",
     "link_type": 0,
@@ -122,7 +232,8 @@
     "desc": "Our 1st mentorship event where all the girls are paired up with their respective bigs and littles. We will make ducks our of string, bond with our new friends and destress!",
     "rsvp":"",
     "rsvp_link":""
-  },{
+  },
+  {
     "name":"Columbus Metro Library MLK Branch Outreach",
     "title_url":"",
     "link_type": 0,
