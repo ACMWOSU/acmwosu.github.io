@@ -1,6 +1,6 @@
 [
   {
-    "name":"End of Year Celebration",
+    "name":"ArchE Week Trivia",
     "title_url":"",
     "link_type": 0,
     "date_string":"April 17th",
@@ -8,7 +8,7 @@
     "time":"7:00 - 8:00 PM\n",
     "location":"Dreese 264",
     "location_url":"",
-    "desc": "As the spring semester comes to a close we would like to invite you all to join us to celebrate all of our academic successes this semester with a fun celebration. There will be refreshments, snacks and games! Join us for our last event of Spring 2024!",
+    "desc": "We are bringing you a trivia night with awesome prizes, fun, friends and coke products!! ",
     "rsvp":"",
     "rsvp_link":""
   },
@@ -34,18 +34,6 @@
     "location":"Dreese 264" ,
     "location_url":"",
     "desc": "Join us for our last mentorship event for the 2023-2024 school year! This is an awesome opportunity to bond with mentorship teams and relax with fun crafts. ",
-    "rsvp_link":""
-  },
-  {
-    "name":"ArchE Week Trivia",
-    "title_url":"",
-    "link_type": 0,
-    "date_string":"April 4th",
-    "date":"April 4 2024",
-    "time":"7:00 - 8:00 PM\n",
-    "location":"Dreese 264" ,
-    "location_url":"",
-    "desc": "To celebrate ArchE Week! We are bringing you a trivia night with awesome prizes, fun, friends and coke products!! ",
     "rsvp_link":""
   },
   {
