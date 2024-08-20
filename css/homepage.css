@@ -585,3 +585,40 @@ a:focus, a:hover, a:active {
   font-size: 2rem;
   color: #373738;
 }
+
+.footer {
+  width: 100%;
+  background-color: #343a40;
+  color: #ffffff;
+  padding: 40px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer-content {
+  width: 100%;
+  max-width: 1200px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.footer-content .location,
+.footer-content .around-web,
+.footer-content .weekly-meetings {
+  flex: 1;
+  padding: 0 20px;
+}
+
+.footer-bottom {
+  width: 100%;
+  text-align: center;
+  padding: 20px 0;
+  background-color: #23272b;
+  margin-top: 20px;
+}
+
+.footer-bottom p {
+  margin: 0;
+}
