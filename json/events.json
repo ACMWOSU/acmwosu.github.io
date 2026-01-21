@@ -1,10 +1,130 @@
 [
- 
+ {
+    "name":"Mentorship Craft Social",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"Feburary 4th",
+    "date":"February 4 2025",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Bowen Ohio Room",
+    "location_url":"",
+    "desc": "Kick off the Spring semester with the ACM-W Mentorship Program! Join us for our first meeting featuring fun activities like Legos, watercolor bookmarks, and coloring books, all while bonding with your Big or Little. Everyone is welcome to attend and apply to join the program! Refreshments, craft supplies, and good company provided!",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"OSU STEM Day",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"Feburary 1st",
+    "date":"February 1 2025",
+    "time":"10:30 AM - 1:00 PM\n",
+    "location":"Fontana Labs",
+    "location_url":"",
+    "desc": "STEM Day is an interactive outreach event hosted at OSU’s Fontana Laboratories that introduces middle and high school students to engineering through facility tours and hands-on activities led by student organizations. Attendees rotate through small-group sessions, engage with volunteers, and explore different STEM disciplines in a fun, supportive environment.",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"Northside Branch Volunteering",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"January 30th",
+    "date":"January 30 2025",
+    "time":"4:00 PM\n",
+    "location":"Northside Branch CML",
+    "location_url":"",
+    "desc": "Start off the new year with ACM-W at our Vision Board Making Event! Bring your aspirations to life by crafting a personalized vision board filled with images and words that reflect your ambitions for 2026. Materials will be provided.",
+    "rsvp":"Sign-up & RSVP Here",
+    "rsvp_link":"https://forms.gle/3qp32oC2fRBcECgm8"
+  },
+  {
+    "name":"Vision Board Social",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"January 28th",
+    "date":"January 28 2025",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Raney Bolder Room",
+    "location_url":"",
+    "desc": "Start off the new year with ACM-W at our Vision Board Making Event! Bring your aspirations to life by crafting a personalized vision board filled with images and words that reflect your ambitions for 2026. Materials will be provided.",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"Job Fair Prep Jamboree",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"January 21st",
+    "date":"January 21 2025",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Busch Valor Room",
+    "location_url":"",
+    "desc": "Join us for an interactive career fair preparation event. We will have stations for you to get your resume reviewed, enhance your LinkedIn profile, practice your elevator pitch, and more. Whether you're looking for an internship or a full time role, just starting your job search, or looking to refine your skills, this event is for you!",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"Spring Kickoff 2025",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"January 14th",
+    "date":"January 14 2025",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Raney Bolder Room",
+    "location_url":"",
+    "desc": "Discover a welcoming community for women and nonbinary individuals in technology! If you're seeking professional development or connections in tech, this is the perfect opportunity. Join ACM-W for our first Spring event featuring a preview of exciting upcoming events this semester, accompanied by delicious Adriatico's pizza. Stick around afterward for fun activities to connect and bond with fellow members. We can't wait to see you there!",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+
+  {
+    "name":"Career Fair Ready With JPMorgan Chase & Co.",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"September 17th",
+    "date":"September 17 2025",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"1874 Houston House",
+    "location_url":"",
+    "desc": "Join us on September 17th from 7–8 PM for an exclusive workshop with JPMC designed to sharpen your recruiting skills and boost your confidence before career fair season.",
+    "rsvp":"RSVP Here",
+    "rsvp_link":"https://forms.gle/Te7b3Nifnxpvu2HYA"
+  },
+
+{
+    "name":"Introduction to Mentorship Social",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"September 10th",
+    "date":"September 10 2025",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"1874 Houston House",
+    "location_url":"",
+    "desc": "Event to introduce interested students to ACM-W Mentorship program. Pairs under and upperclassmen to guide younger students through their experience in computing at Ohio State. Provide and spread a group forum of resources for students to refer to. Will have FREE pizza!!",
+    "rsvp":"Interest Form",
+    "rsvp_link":" https://forms.gle/Hn5wn3uU54WPBJKs7"
+  },
+  
+{
+    "name":"Captech Interview + Recruitment Workshop",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"September 3rd",
+    "date":"September 3 2025",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"1874 Houston House",
+    "location_url":"",
+    "desc": "We’re excited to host an exclusive CapTech workshop that will give you the inside scoop on how to stand out in the recruitment process. CapTech recruiters will be on-site accepting resumes, sharing exactly what they look for in top candidates, and providing guidance on how to shine in both behavioral and technical interviews. You’ll walk away with actionable strategies to boost your confidence and performance in future interviews. Plus, the event will be catered with food from Noodles & Company — come hungry and ready to learn!",
+    "rsvp":"RSVP Here",
+    "rsvp_link":"https://forms.gle/YSix2HXMBzQ9i3RcA"
+  },
+
   {
     "name":"Fall Kickoff 2025",
     "title_url":"",
     "link_type": 0,
-    "date_string":"August 25th",
+    "date_string":"August 27th",
     "date":"August 27 2025",
     "time":"7:00 - 8:00 PM\n",
     "location":"Raney Bolder Room",
