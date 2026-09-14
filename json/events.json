@@ -1,5 +1,43 @@
 [
   {
+    "name":"Mentorship Information Meeting",
+    "title_url":"",
+    "link_type": "September 23rd",
+    "date":"September 23 2026",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Busch Valor Room",
+    "location_url":"",
+    "desc": "Join us for the ACM-W Mentorship Information Meeting! This event introduces interested students to our mentorship program, which pairs underclassmen with upperclassmen to help navigate computing at Ohio State. Whether you're looking for guidance on classes, advice on securing internships, or just want to connect with other students in tech, come learn how to get involved and meet your future mentor or mentee! We will have FREE pizza!!",
+    "rsvp":"Click here to access interest form.",
+    "rsvp_link":"https://go.osu.edu/mentorship-interest-2026"
+  },
+  {
+    "name":"JP Morgan x ACM-W",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"September 21st",
+    "date":"September 21 2026",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Great Hall Meeting Room",
+    "location_url":"",
+    "desc": "Get ready for recruiting season with ACM-W and JPMorgan Chase. JPMorgan Chase professionals will share practical advice for technical and behavioral interviews, building confidence, and standing out as a candidate. We'll wrap up with an open Q&A on JPMorgan Chase programs, internships, and full-time opportunities. Food will be provided.",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"Career Fair De-Stress Night",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"September 16th",
+    "date":"September 16 2026",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Busch Valor Room",
+    "location_url":"",
+    "desc": "Join ACM-W for a Career Fair De-Stress Social! We’ll start with a brief 10–15 minute check-in and career fair tips from fellow students, followed by an open social where you can choose from activities like tote bag painting, board and card games, working on resumes or applications, and casual conversations with peers.",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"Caterpillar Career Close-Up",
     "title_url":"",
     "link_type": 0,
