@@ -1,5 +1,31 @@
 [
   {
+    "name":"TECH Halloween Social ",
+    "title_url":"",
+    "link_type": "",
+    "date_string": "October 26th",
+    "date":"October 26 2026",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Busch Valor Room",
+    "location_url":"",
+    "desc": "Get into the spooky spirit at ACM-W’s annual CSE Halloween Social! Join CS and tech organizations from across OSU for a night of connecting, collaborating, and celebrating the season. Show off your best look in our costume contest, test your knowledge with Halloween trivia for prizes, and grab some spooky treats while meeting students from other clubs. Costumes encouraged but not required!",
+    "rsvp":"",
+    "rsvp_link": ""
+  },
+  {
+    "name":"Mentorship Tea + Cookies Study Group",
+    "title_url":"",
+    "link_type": "",
+    "date_string": "October 26th",
+    "date":"October 26 2026",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Busch Valor Room",
+    "location_url":"",
+    "desc": "Cozy up with a cup of tea and cookies while you study and connect with your peers in the ACM-W mentorship program! This relaxed study session is the perfect space to finish homework, collaborate on projects, and catch up with your mentor or mentee. All are welcome to drop in, unwind, and study for their classes!",
+    "rsvp":"",
+    "rsvp_link": ""
+  },
+  {
     "name":"IGS Energy x ACM-W",
     "title_url":"",
     "link_type": "",
