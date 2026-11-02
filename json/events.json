@@ -1,5 +1,31 @@
 [
   {
+    "name":"Canal Winchester Library",
+    "title_url":"",
+    "link_type": "",
+    "date_string": "November 17th",
+    "date":"Novemeber 17 2026",
+    "time":"3:00 - 4:00 PM\n",
+    "location":"123 Groveport Rd, Canal Winchester, OH 43110",
+    "location_url":"",
+    "desc": "Volunteer with ACM-W at the Canal Winchester Library for a fun, hands-on activity! Help local students explore technology through creative and interactive activities that make learning fun and engaging. Volunteers will work alongside students, guide them through activities, and give them a chance to try something new!",
+    "rsvp":"",
+    "rsvp_link": ""
+  },
+  {
+    "name":"STEM Day - ACMW x BMES",
+    "title_url":"",
+    "link_type": "",
+    "date_string": "November 15th",
+    "date":"Novemeber 15 2026",
+    "time":"10:00AM - 1:30 PM\n",
+    "location":"Fontana Laboratories",
+    "location_url":"",
+    "desc": "Interested in STEM outreach? Join ACM-W and the Biomedical Engineering Society (BMES) for OSU STEM Day! We’re looking for volunteers to help local middle and high school students explore engineering through fun, hands-on activities. This is a great opportunity to share your interests in STEM, help students learn something new, and get involved in outreach!",
+    "rsvp":"",
+    "rsvp_link": ""
+  },
+  {
     "name":"Mentorship Fall Craft Social (Round 2!)",
     "title_url":"",
     "link_type": "",
